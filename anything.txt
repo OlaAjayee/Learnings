@@ -2,7 +2,8 @@ Git Initialization:
     -git init
     -ls -a
     Staging is adding files into the local repository on your system
-    type something in title.txt
+    - to add:git add *file name
+    - to commit: git commmit -m "Initial Commit"(cos it is our firts commit. It will only save the file that has been staged)
 Git  Adding, Commit & Staging
 Working with Staging
 Deleting and renaming of staged files
@@ -15,3 +16,4 @@ Cloning of [Github]/Git repository
 Individual Branches
 Using github branches as templates
 
+title
