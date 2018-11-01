@@ -1,0 +1,17 @@
+Git Initialization:
+    -git init
+    -ls -a
+    Staging is adding files into the local repository on your system
+    type something in title.txt
+Git  Adding, Commit & Staging
+Working with Staging
+Deleting and renaming of staged files
+Viewing of git log
+Managing git branches
+
+
+Analyzing github project structure
+Cloning of [Github]/Git repository
+Individual Branches
+Using github branches as templates
+
