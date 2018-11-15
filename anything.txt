@@ -4,16 +4,32 @@ Git Initialization:
     Staging is adding files into the local repository on your system
     - to add:git add *file name
     - to commit: git commmit -m "Initial Commit"(cos it is our firts commit. It will only save the file that has been staged)
+    - to check out commit logs - git log
 Git  Adding, Commit & Staging
 Working with Staging
 Deleting and renaming of staged files
 Viewing of git log
-Managing git branches
+Managing git branches, HEAD- Branching is a way of having multiple versions of your code in git
+    -git branch: lists all local branches
+    -git branch -a : lists all branches remote and local branches(remote branches are seen after adding a remote git repository).
+    to create a git branch: git branch *name* master( i.e to clone "master") 
+    git checkout: is used to switch from different branches e.g from masterr to development
+    git checkout -b "name": takes the current state of the branch you are on, clone the branch with the name you have specified and also switch to the new branch
+    
+        
+Git config user
+git reset
+git merging of branches
 
 
 Analyzing github project structure
 Cloning of [Github]/Git repository
 Individual Branches
 Using github branches as templates
+Creating pull requests
 
-title
+
+
+master  -------- git checkout -b experiment
+                |
+                ------------ experiment
